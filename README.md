@@ -48,6 +48,6 @@ streamlit run app.py
 
 4. Ask a question related to the document, and the RAG agent retrieves relevant context and generates an answer.
 
-![alt text](C:\Users\viswa\Documents\GENAIandAGENTICAI\langgraph_simple_rag_agent\basic-rag-flow.bfbjOors_Z6l3c3.webp)
+![Simple RAG](basic-rag-flow.bfbjOors_Z6l3c3.webp)
 
 ---
